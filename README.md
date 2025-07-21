@@ -77,7 +77,7 @@ Best Practices:
     Keep It Concise: Be clear and concise.
     Update Regularly: As the project evolves, keep the README up to date.
 
-Make sure your README is informative, inviting, and consistent with the project's tone and branding if applicable. The key is to provide enough information that someone unfamiliar with your project can easily understand what it does, how to use it, and how to contribute.
+
 
 # tech
 tech writing
